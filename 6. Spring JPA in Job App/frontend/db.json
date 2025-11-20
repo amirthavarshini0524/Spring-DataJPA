@@ -1,0 +1,31 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "postProfile":"Java Developer",
+            "postDesc":"should be good",
+            "reqExperience":5,
+            "postTechStack":[
+                "Java","Js","Ts"
+            ]
+        },
+        {
+            "id":2,
+            "postProfile":"TypeScript Developer",
+            "postDesc":"should be good at Typescript",
+            "reqExperience":3,
+            "postTechStack":[
+                "Java","Js","Ts"
+            ]
+        },
+        {
+            "id":3,
+            "postProfile":"React Developer",
+            "postDesc":"should be good at js and react",
+            "reqExperience":6,
+            "postTechStack":[
+                "Java","Js","react js"
+            ]
+        }
+    ]
+}
